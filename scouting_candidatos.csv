@@ -1,0 +1,41 @@
+﻿nombre,equipo,liga,posicion,similitud,Time Played,Goals p90,Total Passes p90,Pass Accuracy %,Duel Win %,Shots on Target %,Save Ratio %,Interceptions p90,Aerial Win %
+Mikel Oyarzabal,Real Sociedad de Fútbol,Spain_Primera_Division,Forward,99.8,2274.0,0.47,24.18,76.1,42.4,56.4,0.0,0.12,32.3
+R. Philippe,Hamburger SV,Germany_Bundesliga,Forward,99.4,1135.0,0.4,14.59,70.7,32.1,56.0,0.0,0.32,11.8
+O. Burke,1. FC Union Berlin,Germany_Bundesliga,Forward,99.3,1169.0,0.31,16.78,72.5,36.4,52.2,0.0,0.31,40.8
+T. Lemperle,TSG 1899 Hoffenheim,Germany_Bundesliga,Forward,99.3,1505.0,0.42,24.22,70.4,34.7,51.5,0.0,0.3,43.5
+T. Noslin,SS Lazio,Italy_Serie_A,Forward,99.0,623.0,0.43,30.77,82.2,50.0,56.2,0.0,0.14,45.2
+André Silva,Elche CF,Spain_Primera_Division,Forward,98.9,1305.0,0.48,25.31,79.6,40.9,65.5,0.0,0.14,32.7
+Jorge de Frutos,Rayo Vallecano de Madrid,Spain_Primera_Division,Forward,98.7,2021.0,0.45,13.63,77.5,41.2,57.9,0.0,0.31,33.3
+Rafael Leão,AC Milan,Italy_Serie_A,Forward,98.7,1500.0,0.54,27.84,83.2,47.5,63.9,0.0,0.24,51.2
+G. Simeone,Torino FC,Italy_Serie_A,Forward,98.7,1661.0,0.43,17.72,71.3,39.6,54.5,0.0,0.11,32.1
+L. Ramazani,Valencia CF,Spain_Primera_Division,Forward,98.6,785.0,0.57,26.37,77.8,33.3,57.1,0.0,1.15,22.2
+V. Rongier,Stade Rennais FC,France_Ligue_1,Midfielder,99.2,2295.0,0.04,67.1,89.0,53.3,60.0,0.0,1.25,52.4
+André Almeida,Valencia CF,Spain_Primera_Division,Midfielder,98.8,1002.0,0.0,49.85,90.8,54.1,50.0,0.0,0.9,66.7
+A. Jashari,AC Milan,Italy_Serie_A,Midfielder,98.8,459.0,0.0,61.96,92.4,45.7,40.0,0.0,0.98,14.3
+L. Modrić,AC Milan,Italy_Serie_A,Midfielder,98.8,2546.0,0.07,70.31,90.6,54.9,58.3,0.0,1.34,47.6
+M. Koné,AS Roma,Italy_Serie_A,Midfielder,98.8,2302.0,0.08,49.07,90.6,50.7,41.7,0.0,0.63,49.0
+D. Cissé,Stade Rennais FC,France_Ligue_1,Midfielder,98.7,954.0,0.0,46.13,80.8,46.9,40.0,0.0,0.57,30.8
+Dani Ceballos,Real Madrid CF,Spain_Primera_Division,Midfielder,98.6,466.0,0.0,84.59,92.7,56.1,0.0,0.0,1.35,25.0
+Éderson,Atalanta Bergamasca Calcio,Italy_Serie_A,Midfielder,98.6,1778.0,0.05,55.17,89.5,51.2,47.1,0.0,1.11,40.8
+H. Mkhitaryan,FC Internazionale Milano,Italy_Serie_A,Midfielder,98.6,1218.0,0.15,57.71,87.8,45.7,36.0,0.0,1.03,52.4
+L. da Cunha,Calcio Como 1907,Italy_Serie_A,Midfielder,98.6,2185.0,0.12,64.42,89.5,47.7,47.8,0.0,0.62,44.4
+A. Aït Boudlal,Stade Rennais FC,France_Ligue_1,Defender,99.9,862.0,0.21,52.1,87.2,55.0,60.0,0.0,1.15,55.9
+Zé Pedro,Cagliari Calcio,Italy_Serie_A,Defender,99.6,1284.0,0.0,51.45,88.0,50.4,0.0,0.0,0.98,48.6
+A. Sangante,Le Havre AC,France_Ligue_1,Defender,99.5,1251.0,0.22,55.4,87.7,57.2,66.7,0.0,1.51,58.6
+Jacobo Ramón,Calcio Como 1907,Italy_Serie_A,Defender,99.5,2248.0,0.08,70.58,91.0,61.3,30.0,0.0,1.24,66.2
+Manu Fernández,Real Club Celta de Vigo,Spain_Primera_Division,Defender,99.4,714.0,0.0,61.89,90.2,61.4,0.0,0.0,0.88,60.0
+F. Lejeune,Rayo Vallecano de Madrid,Spain_Primera_Division,Defender,99.3,2691.0,0.0,58.96,87.4,59.4,34.3,0.0,1.17,66.7
+Éder Militão,Real Madrid CF,Spain_Primera_Division,Defender,99.3,1033.0,0.17,60.55,90.9,60.2,52.9,0.0,0.87,54.3
+M. Niakhaté,Olympique Lyonnais,France_Ligue_1,Defender,99.3,2725.0,0.0,60.37,91.1,60.9,50.0,0.0,0.83,64.2
+A. Buongiorno,SSC Napoli,Italy_Serie_A,Defender,99.3,2010.0,0.0,62.91,89.9,59.5,60.0,0.0,1.52,67.7
+J. Gradit,Racing Club de Lens,France_Ligue_1,Defender,99.3,2115.0,0.0,56.04,85.8,56.7,28.6,0.0,1.06,58.7
+J. Butez,Calcio Como 1907,Italy_Serie_A,Goalkeeper,99.5,2790.0,0.0,35.77,82.1,94.4,0.0,77.8,0.03,92.3
+T. Courtois,Real Madrid CF,Spain_Primera_Division,Goalkeeper,99.4,2520.0,0.0,29.93,79.6,61.5,0.0,70.7,0.0,83.3
+David Raya,Arsenal FC,England_Premier_League,Goalkeeper,99.4,3420.0,0.0,32.42,70.6,88.9,0.0,71.7,0.05,100.0
+M. Maignan,AC Milan,Italy_Serie_A,Goalkeeper,99.2,2666.0,0.0,30.59,78.1,100.0,0.0,77.6,0.03,100.0
+Alisson Becker,Liverpool FC,England_Premier_League,Goalkeeper,99.2,2509.0,0.0,29.74,80.7,91.7,0.0,72.9,0.0,100.0
+G. Kobel,BV Borussia 09 Dortmund,Germany_Bundesliga,Goalkeeper,99.1,2520.0,0.0,30.93,71.1,80.0,0.0,72.0,0.0,85.7
+P. Köhn,AS Monaco FC,France_Ligue_1,Goalkeeper,99.1,1710.0,0.0,25.05,72.3,80.0,0.0,70.8,0.0,100.0
+Joan García,FC Barcelona,Spain_Primera_Division,Goalkeeper,99.0,2160.0,0.0,28.58,89.9,94.1,0.0,78.0,0.08,100.0
+E. Corvi,Parma Calcio 1913,Italy_Serie_A,Goalkeeper,98.7,1440.0,0.0,29.94,73.5,87.5,0.0,71.0,0.0,100.0
+L. Chevalier,Lille OSC,France_Ligue_1,Goalkeeper,98.6,3060.0,0.0,27.53,77.1,94.1,0.0,72.7,0.0,100.0

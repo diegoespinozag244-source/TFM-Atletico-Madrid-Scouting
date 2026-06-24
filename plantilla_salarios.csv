@@ -1,0 +1,27 @@
+﻿jugador,posicion,salario_fijo_M,bonus_M,salario_total_M,estado,contrato_fin,clausula_M,baja_probable,salario_anual_M
+J. Oblak,GK,20.83,5.21,26.04,Activo,2028,,No,26.04
+A. Lookman,FW,12.5,3.13,15.63,Activo,2030,,No,15.63
+J. Álvarez,FW,12.5,3.13,15.63,Activo,2030,500.0,No,15.63
+A. Griezmann,FW,9.38,2.35,11.73,Activo,2027,25.0,No,11.73
+Á. Baena,MF,8.33,2.08,10.41,Activo,2030,,No,10.41
+M. Llorente,MF,8.33,2.08,10.41,Activo,2027,120.0,No,10.41
+N. González,FW,7.5,1.88,9.38,Cedido,2026,,Fin cesión,9.38
+A. Sørloth,FW,7.29,1.83,9.12,Activo,2028,,Posible venta,9.12
+C. Lenglet,DEF,7.29,1.83,9.12,Activo,2028,,No,9.12
+Koke,MF,6.67,1.67,8.34,Activo,2026,,SÍ (libre),8.34
+D. Hancko,DEF,6.67,1.67,8.34,Activo,2030,,No,8.34
+J.M. Giménez,DEF,6.25,1.56,7.81,Activo,2028,,No,7.81
+P. Barrios,MF,6.25,1.56,7.81,Activo,2030,100.0,No,7.81
+R. Le Normand,DEF,6.25,1.56,7.81,Activo,2029,,No,7.81
+T. Almada,MF,5.21,1.29,6.5,Activo,2030,,No,6.5
+C. Gallagher,MF,4.5,1.13,5.63,Inactivo,2029,,Posible venta,5.63
+Johnny,MF,4.17,1.04,5.21,Activo,2030,,No,5.21
+G. Simeone,FW,3.75,0.94,4.69,Activo,2030,500.0,No,4.69
+N. Molina,DEF,3.75,0.94,4.69,Activo,2027,100.0,No,4.69
+J. Musso,GK,3.33,0.83,4.16,Activo,2028,,No,4.16
+G. Raspadori,FW,3.13,0.79,3.92,Inactivo,2030,,Posible venta,3.92
+M. Ruggeri,DEF,2.08,0.52,2.6,Activo,2030,,No,2.6
+R. Mendoza,MF,1.67,0.42,2.09,Activo,2031,,No,2.09
+T. Lemar,MF,1.63,0.42,2.05,Inactivo,2027,,Posible salida,2.05
+M. Pubill,DEF,1.46,0.38,1.84,Activo,2030,,No,1.84
+O. Vargas,MF,0.83,0.21,1.04,Activo,2030,,No,1.04

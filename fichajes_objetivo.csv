@@ -1,0 +1,5 @@
+﻿nombre,equipo,liga,posicion,edad,similitud,Time Played,Goals p90,Total Passes p90,Pass Accuracy %,Duel Win %,Shots on Target %,Save Ratio %,Interceptions p90,Aerial Win %
+T. Lemperle,TSG 1899 Hoffenheim,Germany_Bundesliga,Forward,23.0,99.3,1505.0,0.42,24.22,70.4,34.7,51.5,0.0,0.3,43.5
+M. Koné,AS Roma,Italy_Serie_A,Midfielder,23.0,98.8,2302.0,0.08,49.07,90.6,50.7,41.7,0.0,0.63,49.0
+Jacobo Ramón,Calcio Como 1907,Italy_Serie_A,Defender,22.0,99.5,2248.0,0.08,70.58,91.0,61.3,30.0,0.0,1.24,66.2
+David Raya,Arsenal FC,England_Premier_League,Goalkeeper,29.0,99.4,3420.0,0.0,32.42,70.6,88.9,0.0,71.7,0.05,100.0
